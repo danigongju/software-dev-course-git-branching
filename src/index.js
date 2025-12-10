@@ -1,4 +1,5 @@
 // Danielle Farmer - 12/08/25
+// This application prints "Hello, World!" and the numbers 0 to 9.
 
 console.log("Hello world!");
 
